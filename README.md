@@ -1,4 +1,23 @@
-Hi there 👋
+Hi, I'm Abbas 👋
+
+Aspiring Data Scientist passionate about turning data into insights.
+
+Skills:
+Python • SQL • Machine Learning • Data Analytics • AI
+
+Projects
+
+📊 Customer Churn Prediction  
+📈 Sales Analytics Dashboard  
+🤖 AI Document Chatbot  
+🎬 Recommendation System  
+
+Tools:
+Python | Pandas | NumPy | Scikit-learn | SQL | Power BI | Docker
+
+Reach me on
+LinkedIn: https://linkedin.com/in/yourname
+and Kaggle: https://kaggle.com/yourname
 
 <!--
 **Abbas-DataScience/Abbas-DataScience** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
