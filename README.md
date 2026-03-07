@@ -16,8 +16,8 @@ Tools:
 Python | Pandas | NumPy | Scikit-learn | SQL | Power BI | Docker
 
 Reach me on
-LinkedIn: https://linkedin.com/in/yourname
-and Kaggle: https://kaggle.com/yourname
+LinkedIn: https://www.linkedin.com/in/abbas-s-1525a93b5/
+and Kaggle: https://www.kaggle.com/kaggle1abbas
 
 <!--
 **Abbas-DataScience/Abbas-DataScience** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
